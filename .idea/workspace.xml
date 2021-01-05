@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29f64c8a-5424-4aa1-97f0-947bc11054ec" name="Default Changelist" comment="chore: file">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="29f64c8a-5424-4aa1-97f0-947bc11054ec" name="Default Changelist" comment="chore: update readme">
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +36,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609863955346</updated>
-      <workItem from="1609863956478" duration="1397000" />
+      <workItem from="1609863956478" duration="1424000" />
     </task>
     <task id="LOCAL-00001" summary="chore: bump version">
       <created>1609864742893</created>
@@ -60,7 +59,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609865078599</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="chore: update readme">
+      <created>1609865372763</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1609865372763</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,6 +87,7 @@
     <MESSAGE value="chore: bump version" />
     <MESSAGE value="chore: readme" />
     <MESSAGE value="chore: file" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: file" />
+    <MESSAGE value="chore: update readme" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: update readme" />
   </component>
 </project>

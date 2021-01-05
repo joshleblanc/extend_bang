@@ -41,7 +41,7 @@ end
 # Here we extend `Foo`'s singleton class with `Bar`.
 Foo.extend Bar
 
-# We can see here that although we re-define `test`, it maintanis `Foo`'s initial implementation.
+# We can see here that although we re-define `test`, it maintains `Foo`'s initial implementation.
 p Foo.test 
 # => "Foo Test"
 
