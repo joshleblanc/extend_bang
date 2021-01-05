@@ -18,10 +18,39 @@ Or install it yourself as:
 
 ## Usage
 
-This gems add the `extend!` method to `Object`.
+This gems add the `extend!` method to `Object`. This method behaves the same way as `extend`, except overrides existing methods.
 
 Simply add `require "extend_bang"` to the top of your file to get started. 
 If you're using rails, the autoloading should handle this for you.
+
+```ruby
+require "extend_bang"
+
+module Foo
+  def self.test
+    "Foo Test"
+  end
+end
+
+module Bar
+  def test
+    "Bar Test"
+  end
+end
+
+# Here we extend `Foo`'s singleton class with `Bar`.
+Foo.extend Bar
+
+# We can see here that although we re-define `test`, it maintanis `Foo`'s initial implementation.
+p Foo.test 
+# => "Foo Test"
+
+# Now, if we use `#extend!`, we can make it override the method
+
+Foo.extend! Bar
+p Foo.test
+# => "Bar Test"
+```
 
 ## Development
 

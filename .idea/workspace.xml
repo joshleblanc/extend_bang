@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="29f64c8a-5424-4aa1-97f0-947bc11054ec" name="Default Changelist" comment="">
+    <list default="true" id="29f64c8a-5424-4aa1-97f0-947bc11054ec" name="Default Changelist" comment="chore: file">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -37,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609863955346</updated>
-      <workItem from="1609863956478" duration="1096000" />
+      <workItem from="1609863956478" duration="1397000" />
     </task>
     <task id="LOCAL-00001" summary="chore: bump version">
       <created>1609864742893</created>
@@ -46,7 +46,21 @@
       <option name="project" value="LOCAL" />
       <updated>1609864742893</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="chore: readme">
+      <created>1609865069012</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1609865069012</updated>
+    </task>
+    <task id="LOCAL-00003" summary="chore: file">
+      <created>1609865078599</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1609865078599</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -65,6 +79,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="chore: bump version" />
-    <option name="LAST_COMMIT_MESSAGE" value="chore: bump version" />
+    <MESSAGE value="chore: readme" />
+    <MESSAGE value="chore: file" />
+    <option name="LAST_COMMIT_MESSAGE" value="chore: file" />
   </component>
 </project>
